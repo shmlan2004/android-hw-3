@@ -4,29 +4,34 @@
 ### الخطوات 
 
 <br>
-&#x202b; 1. قم بعمل تطبيق بهذا التصميم
+&#x202b; 1. قم بعمل تطبيق لل CV بحيث ال activity الأول يبدو كالصورة رقم ١
+
 <br>
 <br>
 
-![alt text](https://lh5.googleusercontent.com/tIV7w-C2H022phAsEKPKQOcU7fFxagsv8TIra5CBy_bWA9F6Lvc-mhHeh5Xil2llx3A6MCovRcb0VbSLAXeaeePoP75l5-eBsqWsBRsRrpQg53liFfF3dexGNrZViWWsq4wh1CtQq0E)
-
+&#x202b; 2. وفي ال activity الثاني تظهر كل المعلومات المدخلة كالصورة رقم ٢
 <br>
 <br>
 <hr>
 
-### بونص! 
+![alt text](https://lh4.googleusercontent.com/mIZjPvJo703w5TVwZMBH6Hbf8am18y97GALSs2tFRLP882sZB7fbUiMGBhzkruKKs607BXV6GTiMPVMNlmezvM-r_eThbG9yCtVt--8lpQNos2JPc4SzEVxolpkO09MvbPpYTEUzMjk)
+<br>
+<hr>
+
+### بونص!
 
 <br>
+&#x202b; 1. افتح الايميل
 
-&#x202b; 1. املأ الشاشة
+<br>
 <br>
 
-&#x202b; 2. ضع لون للخلفية
+&#x202b; 2. اتصل عل هاتف
 
 <br>
 <br>
 <hr>
 <b>آخر موعد لرفع الكود
 
-&#x202b; 28/9/2020
+&#x202b; 30/6/2020
 </div>
